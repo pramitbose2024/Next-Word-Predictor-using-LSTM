@@ -28,7 +28,11 @@ This project implements an LSTM-based Next Word Prediction model that generates 
 
 🧰 Technologies Used
 
-Python | PyTorch | NLTK | NumPy | Matplotlib
+1. Python
+2. PyTorch
+3. NLTK
+4. NumPy
+5. Matplotlib
 
 🧪 Training Details
 
